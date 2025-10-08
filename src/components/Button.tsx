@@ -12,6 +12,8 @@ const buttonVariants = cva(
           "bg-gradient-to-r from-primary-600 to-accent-600 text-white hover:from-primary-700 hover:to-accent-700 focus:ring-primary-500 transform hover:scale-[1.02] active:scale-[0.98]",
         secondary:
           "bg-white text-neutral-900 border border-neutral-300 hover:bg-neutral-50 hover:border-neutral-400 focus:ring-neutral-500 transform hover:scale-[1.02] active:scale-[0.98]",
+        outline:
+          "bg-transparent text-neutral-700 border border-neutral-300 hover:bg-neutral-50 hover:border-neutral-400 focus:ring-neutral-500 transform hover:scale-[1.02] active:scale-[0.98]",
         success:
           "bg-success-600 text-white hover:bg-success-700 focus:ring-success-500 transform hover:scale-[1.02] active:scale-[0.98]",
         danger:

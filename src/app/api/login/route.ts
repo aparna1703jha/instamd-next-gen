@@ -24,6 +24,13 @@ const MOCK_USERS = [
     name: "Admin User",
     role: "admin",
   },
+  {
+    id: "4",
+    email: "aashu1703@gmail.com",
+    password: "aashu123",
+    name: "Admin User",
+    role: "admin",
+  },
 ];
 
 // JWT secret (in production, this should be in env variables)
